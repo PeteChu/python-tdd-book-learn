@@ -12,3 +12,15 @@
 pyvenv.cfg
 .venv
 pip-selfcheck.json
+
+### Django ###
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+db.sqlite3
+mediadb.sqlite3
+geckodriver.log
+__pycache__
+*.pyc
